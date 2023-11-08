@@ -15,14 +15,6 @@ This is a simple implementation of the classic Snake game using Python and the T
 - Python
 - Turtle Graphics Library
 
-## Getting Started
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/snake-game.git
-2. cd snake-game
-3. Run the game
-   python main.py
 ## How to Play
 - Use the "Up," "Down," "Left," and "Right" arrow keys to move the snake.
 - Try to eat the food to earn points and grow the snake.
